@@ -20,6 +20,6 @@ $ pip install -r requirements.txt
 
 # 2. DATASET
 2.1 SIIM COVID 19 DATASET
-Download competition dataset directly from [Kaggle](https://www.kaggle.com/competitions/siim-covid19-detection/data then extract to ./data/
+Download competition dataset directly from [Kaggle](https://www.kaggle.com/competitions/siim-covid19-detection/data) then extract to ./data/
 
 # 3. TRAINING
